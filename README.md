@@ -5,9 +5,6 @@ An educational website about Biology, explaining important topics, concepts, and
 ## 🌍 Live Demo
 https://yourusername.github.io/biology/
 
-## 📸 Screenshot
-![Biology Website Screenshot](screenshot.png)
-
 ## 🚀 Features
 - Clear explanations of biology topics
 - Diagrams and labeled illustrations
