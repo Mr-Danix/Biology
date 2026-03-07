@@ -14,4 +14,5 @@ https://mr-danix.github.io/Biology/
 - Easy navigation with responsive design
 
 ## 🛠 Tech Used
+
 HTML, CSS, JavaScript
