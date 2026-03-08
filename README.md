@@ -11,7 +11,7 @@ https://mr-danix.github.io/Biology/
 - Clear explanations of biology topics
 - Diagrams and labeled illustrations
 - Key definitions and important terms
-- Easy navigation with responsive desig
+- Easy navigation with responsive design
 
 ## 🛠 Tech Used
 
