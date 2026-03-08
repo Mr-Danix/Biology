@@ -1,6 +1,6 @@
 # Biology
 
-An educational website about Biology, explaining important topics, concepts, and scientific discoveries in a simple and interactive way.
+An educational website about Biology, explaining important topics, concepts, and scientific discoveries in a simple and interactive wa
 
 ## 🌍 Live Demo
 
